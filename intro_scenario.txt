@@ -1,0 +1,56 @@
+Wisdom
+You enter a grocery store because you are really
+hungry and are faced with the dillemma of choosing 
+between something healthy or junk food.
+
+You need to use Wisdom!
+
+Based on your stats:
+
+Intelligence
+You have to figure out which apple will be ripe.
+
+You need to use Intelligence!
+
+Based on stats:
+
+Dexterity
+You reach for the apple located at the top of the stack 
+of apples.
+
+You need to use Dexterity!
+
+Based on stats:
+
+Consitution
+Someone else grabs the apple at the same time
+
+You need to use Constitution!
+
+Based on stats:
+
+Strength
+The other customer wants to fight you for the apple, so
+he/she grabs your shoulder as you start to walk away.
+
+You need to use Strength!
+
+Based on stats:
+
+Charisma
+You go to the checkout line and stick your hand on your
+pockets and discover that you don't have pockets because 
+you're a sloth.
+
+You need to use Charisma!
+
+Based on stats:
+
+Sneak
+As you walk towards the automatic sliding door.
+Your stomach grumbles and thoughts start to fill 
+your brain.  "I NEED THAT APPLE!!!"
+
+You need to use Sneak!
+
+Based on stats:

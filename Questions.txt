@@ -1,0 +1,23 @@
+TF:EXTRA4:Have you ever led a team of starving sloths in a hunger strike? :T) Yes. (CHA,+2):F) No
+TF:EXTRA3:I have grabbed my own arm thinking it was a tree branch. :T) Yes, OMG I can relate. (STR,+1):F) No, that is the leading cause of death for sloths, so I am very careful. (WIS,+1)
+MC:EXTRA2:When you won the tree climbing context in sloth high school, how far ahead were you? :A) I fell off. (DEX,-2):B) Neck and Neck. (CON,+1):C) A branch of two ahead. (DEX,+2):D) I kicked them off so I won. (STR,+2)
+MC:EXTRA1:When you tried to sneak into Area 51, how close did you get? :A) I never tried that. (WIS +2):B) They caught me before I got anywhere close. (SNEAK,+1) :C) I reached the fence. (SNEAK,+2) :D) I got in and out with no difficulty. (SNEAK,+3)
+NE:CHA:What is the Charisma of [name]? [Enter a number between 0-3, 3 being the highest]
+NE:STR:What is the Strength of [name]? [Enter a number between 0-3, 3 being the highest]
+NE:CON:What is the Constitution of [name]? [Enter a number between 0-3, 3 being the highest]
+NE:DEX:What is the Dexterity of [name]? [Enter a number between 0-3, 3 being the highest]
+NE:INT:What is the Intelligence of [name]? [Enter a number between 0-3, 3 being the highest]
+NE:WIS:What is the Wisdom of [name]? [Enter a number between 0-3, 3 being the highest]
+TF:LIKE:Do you like sloths? :T) Yes. :F) No.
+SA:GENDER:Gender? 
+SA:NAME:Name? 
+
+
+
+
+
+
+
+
+
+
